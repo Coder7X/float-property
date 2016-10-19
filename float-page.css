@@ -1,0 +1,19 @@
+.first-image {
+  float: left;
+  margin-right: 10px;
+  height: 300px;
+  width: 300px;
+}
+.second-image {
+  float: right;
+  margin-left: 10px;
+  height: 300px;
+  width: 300px;
+}
+.container{
+  padding:30px;
+  background-color: black;
+}
+.paragraph {
+  color: white;
+}
